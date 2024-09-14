@@ -1,3 +1,6 @@
+Proyecto del curso Programación móvil con flutter by "Francisco Junior Valdez Lora"
+
+
 # senator_reservas
 
 A new Flutter project.
